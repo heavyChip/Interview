@@ -2,10 +2,9 @@
 
 from itertools import product
 
-
 def phone_letter_combinations():
     phone_numbers = {
-        '1': [],
+        '1': [''],
         '2': ['a', 'b', 'c'],
         '3': ['d', 'e', 'f'],
         '4': ['g', 'h', 'i'],
