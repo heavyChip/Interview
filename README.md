@@ -1,7 +1,7 @@
 ﻿# Interview
 
 1. task_1 - Function returns reversed int (signed 32-bit)
- test(task_1)
++  test(task_1)
 
 2. task_2 – Function which generates all possible letter combinations for entered phone numbers
 
